@@ -23,7 +23,7 @@ random.seed(54)
 
 
 # Read csv file using pandas libray
-train=pd.read_csv('/kaggle/input/heart-attack-analysis-prediction-dataset/heart.csv')
+train=pd.read_csv('heart.csv')
 
 
 # Show first 5 rows in data
